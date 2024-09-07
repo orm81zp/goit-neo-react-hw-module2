@@ -1,0 +1,15 @@
+.feedback {
+  
+}
+
+.feedbackList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.feedbackList > li {
+  display: flex;
+  gap: 4px;
+  text-transform: capitalize;
+}
